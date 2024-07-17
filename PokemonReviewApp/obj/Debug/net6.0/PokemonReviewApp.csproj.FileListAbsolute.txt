@@ -58,3 +58,4 @@ C:\Users\anass\source\ProfessionalRepos\PokemonReviewApp\PokemonReviewApp\obj\De
 C:\Users\anass\source\ProfessionalRepos\PokemonReviewApp\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.pdb
 C:\Users\anass\source\ProfessionalRepos\PokemonReviewApp\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.genruntimeconfig.cache
 C:\Users\anass\source\ProfessionalRepos\PokemonReviewApp\PokemonReviewApp\obj\Debug\net6.0\ref\PokemonReviewApp.dll
+C:\Users\anass\source\ProfessionalRepos\PokemonReviewApp\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.dll

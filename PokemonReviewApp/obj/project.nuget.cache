@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "30/YF++TCePGCHv8jlyQA1MAjfMyF3ayxdXd98VpI3yg8n0/Wk5UiznXPd5u0no4TuKWSZLS655C3gV1ls4e8Q==",
+  "dgSpecHash": "au6miMST9833BFsBtSaceoSkPOPk8qg1ZjzlSrViqZ2bZ1xORwQiy1WsplpFylp9RvdFQ0RLvue3PPrkyAxj1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\anass\\source\\ProfessionalRepos\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\anass\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\anass\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\anass\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\anass\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
