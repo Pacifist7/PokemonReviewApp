@@ -7,7 +7,7 @@ namespace PokemonReviewApp.Repository
     public class PokemonRepository: IPokemonRepository
     {
         private readonly DataContext _context;
-
+        
         public PokemonRepository(DataContext context)
         {
             _context = context;
